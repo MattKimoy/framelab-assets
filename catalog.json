@@ -1,5 +1,13 @@
 {
   "catalogVersion": 1,
   "releaseTag": "assets-v1",
-  "items": []
+  "items": [
+    {
+      "id": "general-cash-register",
+      "name": "Cash Register",
+      "category": "Viral SFX",
+      "filename": "ET.-.SFX.-.Cash.Register.mp3",
+      "version": 1
+    }
+  ]
 }
