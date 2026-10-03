@@ -3,13 +3,6 @@
   "releaseTag": "assets-v1",
   "items": [
     {
-      "id": "general-cash-register",
-      "name": "Cash Register",
-      "category": "Viral SFX",
-      "filename": "Cash-Register.mp3",
-      "version": 1
-    },
-    {
       "id": "frog",
       "name": "Frog",
       "category": "Viral SFX",
