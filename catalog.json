@@ -1,5 +1,15 @@
 {
   "catalogVersion": 1,
   "releaseTag": "assets-v1",
-  "items": []
+  "items": [
+    {
+      "id": "atumalaka",
+      "name": "Atumalaka",
+      "category": "Viral SFX",
+      "filename": "Sapo-Pulando-Rindo.mp3",
+      "version": 1,
+      "namePt": "Atumalaca",
+      "subcategory": "meme"
+    }
+  ]
 }
