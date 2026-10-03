@@ -16,6 +16,14 @@
       "filename": "SHPLA.aac",
       "version": 1,
       "namePt": "Whip"
+    },
+    {
+      "id": "frog",
+      "name": "Frog",
+      "category": "Viral SFX",
+      "filename": "Sapo-Pulando-Rindo.mp3",
+      "version": 1,
+      "namePt": "Sapo"
     }
   ]
 }
