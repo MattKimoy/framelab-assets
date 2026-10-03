@@ -8,6 +8,14 @@
       "category": "Viral SFX",
       "filename": "Cash-Register.mp3",
       "version": 1
+    },
+    {
+      "id": "chicote",
+      "name": "Chicote",
+      "category": "Viral SFX",
+      "filename": "SHPLA.aac",
+      "version": 1,
+      "namePt": "Whip"
     }
   ]
 }
