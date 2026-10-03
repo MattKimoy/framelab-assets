@@ -1,14 +1,5 @@
 {
   "catalogVersion": 1,
   "releaseTag": "assets-v1",
-  "items": [
-    {
-      "id": "frog",
-      "name": "Frog",
-      "category": "Viral SFX",
-      "filename": "Sapo-Pulando-Rindo.mp3",
-      "version": 1,
-      "namePt": "Sapo"
-    }
-  ]
+  "items": []
 }
