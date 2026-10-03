@@ -10,6 +10,272 @@
       "version": 1,
       "namePt": "Atumalaca",
       "subcategory": "meme"
+    },
+    {
+      "id": "general-cash-register",
+      "name": "Cash Register",
+      "category": "Viral SFX",
+      "subcategory": "general",
+      "filename": "Cash-Register.mp3",
+      "version": 1
+    },
+    {
+      "id": "general-cash-register-2",
+      "name": "Cash Register 2",
+      "category": "Viral SFX",
+      "subcategory": "general",
+      "filename": "Cash-Register-2.mp3",
+      "version": 1
+    },
+    {
+      "id": "general-ding",
+      "name": "Ding",
+      "category": "Viral SFX",
+      "subcategory": "general",
+      "filename": "Ding.mp3",
+      "version": 1
+    },
+    {
+      "id": "general-magic",
+      "name": "Magic",
+      "category": "Viral SFX",
+      "subcategory": "general",
+      "filename": "Magic.mp3",
+      "version": 1
+    },
+    {
+      "id": "general-pop-1",
+      "name": "Pop 1",
+      "category": "Viral SFX",
+      "subcategory": "general",
+      "filename": "Pop-1.mp3",
+      "version": 1
+    },
+    {
+      "id": "general-shot",
+      "name": "Shot",
+      "category": "Viral SFX",
+      "subcategory": "general",
+      "filename": "Shot.mp3",
+      "version": 1
+    },
+    {
+      "id": "whoosh-1",
+      "name": "Whoosh 1",
+      "category": "Viral SFX",
+      "subcategory": "whoosh",
+      "filename": "Whoosh-1.mp3",
+      "version": 1
+    },
+    {
+      "id": "whoosh-2",
+      "name": "Whoosh 2",
+      "category": "Viral SFX",
+      "subcategory": "whoosh",
+      "filename": "Whoosh-2.mp3",
+      "version": 1
+    },
+    {
+      "id": "riser-1",
+      "name": "Riser 1",
+      "category": "Viral SFX",
+      "subcategory": "riser",
+      "filename": "Riser-1.mp3",
+      "version": 1
+    },
+    {
+      "id": "riser-2",
+      "name": "Riser 2",
+      "category": "Viral SFX",
+      "subcategory": "riser",
+      "filename": "Riser-2.mp3",
+      "version": 1
+    },
+    {
+      "id": "riser-3",
+      "name": "Riser 3",
+      "category": "Viral SFX",
+      "subcategory": "riser",
+      "filename": "Riser-3.mp3",
+      "version": 1
+    },
+    {
+      "id": "riser-4",
+      "name": "Riser 4",
+      "category": "Viral SFX",
+      "subcategory": "riser",
+      "filename": "Riser-4.mp3",
+      "version": 1
+    },
+    {
+      "id": "riser-5",
+      "name": "Riser 5",
+      "category": "Viral SFX",
+      "subcategory": "riser",
+      "filename": "Riser-5.mp3",
+      "version": 1
+    },
+    {
+      "id": "riser-6",
+      "name": "Riser 6",
+      "category": "Viral SFX",
+      "subcategory": "riser",
+      "filename": "Riser-6.mp3",
+      "version": 1
+    },
+    {
+      "id": "riser-7",
+      "name": "Riser 7",
+      "category": "Viral SFX",
+      "subcategory": "riser",
+      "filename": "Riser-7.mp3",
+      "version": 1
+    },
+    {
+      "id": "riser-8",
+      "name": "Riser 8",
+      "category": "Viral SFX",
+      "subcategory": "riser",
+      "filename": "Riser-8.mp3",
+      "version": 1
+    },
+    {
+      "id": "riser-9",
+      "name": "Riser 9",
+      "category": "Viral SFX",
+      "subcategory": "riser",
+      "filename": "Riser-9.mp3",
+      "version": 1
+    },
+    {
+      "id": "riser-10",
+      "name": "Riser 10",
+      "category": "Viral SFX",
+      "subcategory": "riser",
+      "filename": "Riser-10.mp3",
+      "version": 1
+    },
+    {
+      "id": "riser-11",
+      "name": "Riser 11",
+      "category": "Viral SFX",
+      "subcategory": "riser",
+      "filename": "Riser-11.mp3",
+      "version": 1
+    },
+    {
+      "id": "riser-12",
+      "name": "Riser 12",
+      "category": "Viral SFX",
+      "subcategory": "riser",
+      "filename": "Riser-12.mp3",
+      "version": 1
+    },
+    {
+      "id": "riser-13",
+      "name": "Riser 13",
+      "category": "Viral SFX",
+      "subcategory": "riser",
+      "filename": "Riser-13.mp3",
+      "version": 1
+    },
+    {
+      "id": "riser-14",
+      "name": "Riser 14",
+      "category": "Viral SFX",
+      "subcategory": "riser",
+      "filename": "Riser-14.mp3",
+      "version": 1
+    },
+    {
+      "id": "interaction-camera-shutter-1",
+      "name": "Camera Shutter 1",
+      "category": "Viral SFX",
+      "subcategory": "interaction",
+      "filename": "Camera-Shutter-1.mp3",
+      "version": 1
+    },
+    {
+      "id": "interaction-click-1",
+      "name": "Click 1",
+      "category": "Viral SFX",
+      "subcategory": "interaction",
+      "filename": "Click-1.mp3",
+      "version": 1
+    },
+    {
+      "id": "interaction-click-2",
+      "name": "Click 2",
+      "category": "Viral SFX",
+      "subcategory": "interaction",
+      "filename": "Click-2.mp3",
+      "version": 1
+    },
+    {
+      "id": "interaction-click-3",
+      "name": "Click 3",
+      "category": "Viral SFX",
+      "subcategory": "interaction",
+      "filename": "Click-3.mp3",
+      "version": 1
+    },
+    {
+      "id": "interaction-keyboard-typing",
+      "name": "Keyboard Typing",
+      "category": "Viral SFX",
+      "subcategory": "interaction",
+      "filename": "Keyboard-Typing.mp3",
+      "version": 1
+    },
+    {
+      "id": "meme-core",
+      "name": "Core",
+      "category": "Viral SFX",
+      "subcategory": "meme",
+      "filename": "Core.mp3",
+      "version": 1
+    },
+    {
+      "id": "meme-discord",
+      "name": "Discord",
+      "category": "Viral SFX",
+      "subcategory": "meme",
+      "filename": "Discord.mp3",
+      "version": 1
+    },
+    {
+      "id": "meme-faahhh",
+      "name": "FAAHHH",
+      "category": "Viral SFX",
+      "subcategory": "meme",
+      "filename": "FAAHHH.mp3",
+      "version": 1
+    },
+    {
+      "id": "meme-magical-sparkles",
+      "name": "Magical Sparkles",
+      "category": "Viral SFX",
+      "subcategory": "meme",
+      "filename": "Magical-Sparkles.mp3",
+      "version": 1
+    },
+    {
+      "id": "meme-taco-bell",
+      "name": "Taco Bell",
+      "category": "Viral SFX",
+      "subcategory": "meme",
+      "filename": "Taco-Bell.mp3",
+      "version": 1
+    },
+    {
+      "id": "those-dudes",
+      "name": "Those Dudes",
+      "category": "Titles",
+      "filename": "Those-Dudes.mogrt",
+      "thumbnail": "Those-Dudes-thumb.jpg",
+      "preview": "Those-Dudes-preview.gif",
+      "durationSeconds": 15,
+      "version": 1
     }
   ]
 }
