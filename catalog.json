@@ -315,6 +315,16 @@
       "namePt": "Seta para a direita",
       "subcategory": "arrows",
       "thumbnail": "Arrow-Right-preview.png"
+    },
+    {
+      "id": "heart",
+      "name": "Heart",
+      "category": "Essential Icons",
+      "filename": "Heart-Solid.eps",
+      "version": 1,
+      "namePt": "Coração",
+      "subcategory": "social",
+      "thumbnail": "Heart-Solid-preview.png"
     }
   ]
 }
