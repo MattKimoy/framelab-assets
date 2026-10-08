@@ -305,6 +305,16 @@
       "namePt": "Mensagem",
       "subcategory": "ui",
       "thumbnail": "Messages-Svgrepo-Com-preview.png"
+    },
+    {
+      "id": "arrow-right",
+      "name": "Arrow Right",
+      "category": "Essential Icons",
+      "filename": "Arrow-Right.eps",
+      "version": 1,
+      "namePt": "Seta para a direita",
+      "subcategory": "arrows",
+      "thumbnail": "Arrow-Right-preview.png"
     }
   ]
 }
