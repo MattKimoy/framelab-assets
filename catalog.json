@@ -276,6 +276,15 @@
       "preview": "Those-Dudes-preview.gif",
       "durationSeconds": 15,
       "version": 1
+    },
+    {
+      "id": "coin",
+      "name": "Coin",
+      "category": "Essential Icons",
+      "filename": "Coin.png",
+      "version": 1,
+      "namePt": "Moeda",
+      "thumbnail": "Coin.png"
     }
   ]
 }
