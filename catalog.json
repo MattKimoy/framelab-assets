@@ -285,6 +285,13 @@
       "version": 1,
       "namePt": "Moeda",
       "thumbnail": "Coin.png"
+    },
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "category": "Essential Icons",
+      "filename": "Facebook-Color-Svgrepo-Com.eps",
+      "version": 1
     }
   ]
 }
