@@ -295,6 +295,16 @@
       "version": 1,
       "subcategory": "social",
       "thumbnail": "Facebook-Color-Svgrepo-Com-preview.png"
+    },
+    {
+      "id": "message",
+      "name": "Message",
+      "category": "Essential Icons",
+      "filename": "Messages-Svgrepo-Com.eps",
+      "version": 1,
+      "namePt": "Mensagem",
+      "subcategory": "ui",
+      "thumbnail": "Messages-Svgrepo-Com-preview.png"
     }
   ]
 }
