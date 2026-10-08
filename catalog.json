@@ -284,14 +284,17 @@
       "filename": "Coin.png",
       "version": 1,
       "namePt": "Moeda",
-      "thumbnail": "Coin.png"
+      "thumbnail": "Coin.png",
+      "subcategory": "general"
     },
     {
       "id": "facebook",
       "name": "Facebook",
       "category": "Essential Icons",
       "filename": "Facebook-Color-Svgrepo-Com.eps",
-      "version": 1
+      "version": 1,
+      "subcategory": "social",
+      "thumbnail": "Facebook-Color-Svgrepo-Com-preview.png"
     }
   ]
 }
