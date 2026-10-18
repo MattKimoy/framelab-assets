@@ -405,6 +405,160 @@
       "namePt": "Video 2",
       "subcategory": "camera",
       "thumbnail": "Hud-Video-2.png"
+    },
+    {
+      "id": "caption-beast",
+      "name": "Beast",
+      "category": "Captions",
+      "filename": "Legenda-Beast.mogrt",
+      "version": 1,
+      "namePt": "Beast",
+      "durationSeconds": 2,
+      "thumbnail": "Legenda-Beast-thumb.png",
+      "preview": "Legenda-Beast-preview.mp4"
+    },
+    {
+      "id": "caption-caixa",
+      "name": "Box",
+      "category": "Captions",
+      "filename": "Legenda-Caixa.mogrt",
+      "version": 1,
+      "namePt": "Caixa",
+      "durationSeconds": 2,
+      "thumbnail": "Legenda-Caixa-thumb.png",
+      "preview": "Legenda-Caixa-preview.mp4"
+    },
+    {
+      "id": "caption-clean",
+      "name": "Clean",
+      "category": "Captions",
+      "filename": "Legenda-Clean.mogrt",
+      "version": 1,
+      "namePt": "Clean",
+      "durationSeconds": 2,
+      "thumbnail": "Legenda-Clean-thumb.png",
+      "preview": "Legenda-Clean-preview.mp4"
+    },
+    {
+      "id": "caption-hormozi",
+      "name": "Hormozi",
+      "category": "Captions",
+      "filename": "Legenda-Hormozi.mogrt",
+      "version": 1,
+      "namePt": "Hormozi",
+      "durationSeconds": 2,
+      "thumbnail": "Legenda-Hormozi-thumb.png",
+      "preview": "Legenda-Hormozi-preview.mp4"
+    },
+    {
+      "id": "caption-karaoke",
+      "name": "Karaoke",
+      "category": "Captions",
+      "filename": "Legenda-Karaoke.mogrt",
+      "version": 1,
+      "namePt": "Karaokê",
+      "durationSeconds": 2,
+      "thumbnail": "Legenda-Karaoke-thumb.png",
+      "preview": "Legenda-Karaoke-preview.mp4"
+    },
+    {
+      "id": "caption-neon",
+      "name": "Neon",
+      "category": "Captions",
+      "filename": "Legenda-Neon.mogrt",
+      "version": 1,
+      "namePt": "Neon",
+      "durationSeconds": 2,
+      "thumbnail": "Legenda-Neon-thumb.png",
+      "preview": "Legenda-Neon-preview.mp4"
+    },
+    {
+      "id": "caption-typewriter",
+      "name": "Typewriter",
+      "category": "Captions",
+      "filename": "Legenda-Maquina-de-Escrever.mogrt",
+      "version": 1,
+      "namePt": "Máquina de Escrever",
+      "durationSeconds": 2,
+      "thumbnail": "Legenda-Maquina-de-Escrever-thumb.png",
+      "preview": "Legenda-Maquina-de-Escrever-preview.mp4"
+    },
+    {
+      "id": "title-arrow-label",
+      "name": "Arrow Label",
+      "category": "Titles",
+      "filename": "Titulo-Etiqueta-com-Seta.mogrt",
+      "version": 1,
+      "namePt": "Etiqueta com Seta",
+      "durationSeconds": 4,
+      "thumbnail": "Titulo-Etiqueta-com-Seta-thumb.png",
+      "preview": "Titulo-Etiqueta-com-Seta-preview.mp4"
+    },
+    {
+      "id": "title-chapter",
+      "name": "Chapter",
+      "category": "Titles",
+      "filename": "Titulo-Capitulo.mogrt",
+      "version": 1,
+      "namePt": "Capítulo",
+      "durationSeconds": 4,
+      "thumbnail": "Titulo-Capitulo-thumb.png",
+      "preview": "Titulo-Capitulo-preview.mp4"
+    },
+    {
+      "id": "title-counter",
+      "name": "Counter",
+      "category": "Titles",
+      "filename": "Titulo-Contador.mogrt",
+      "version": 1,
+      "namePt": "Contador",
+      "durationSeconds": 4,
+      "thumbnail": "Titulo-Contador-thumb.png",
+      "preview": "Titulo-Contador-preview.mp4"
+    },
+    {
+      "id": "title-highlighter",
+      "name": "Highlighter",
+      "category": "Titles",
+      "filename": "Titulo-Marca-texto.mogrt",
+      "version": 1,
+      "namePt": "Marca-texto",
+      "durationSeconds": 4,
+      "thumbnail": "Titulo-Marca-texto-thumb.png",
+      "preview": "Titulo-Marca-texto-preview.mp4"
+    },
+    {
+      "id": "title-impact",
+      "name": "Impact",
+      "category": "Titles",
+      "filename": "Titulo-Impacto.mogrt",
+      "version": 1,
+      "namePt": "Impacto",
+      "durationSeconds": 4,
+      "thumbnail": "Titulo-Impacto-thumb.png",
+      "preview": "Titulo-Impacto-preview.mp4"
+    },
+    {
+      "id": "title-lower-third",
+      "name": "Name and Role",
+      "category": "Titles",
+      "filename": "Titulo-Nome-e-Cargo.mogrt",
+      "version": 1,
+      "namePt": "Nome e Cargo",
+      "durationSeconds": 4,
+      "thumbnail": "Titulo-Nome-e-Cargo-thumb.png",
+      "preview": "Titulo-Nome-e-Cargo-preview.mp4"
+    },
+    {
+      "id": "title-subscribe",
+      "name": "Subscribe",
+      "category": "Titles",
+      "filename": "Titulo-Inscreva-se.mogrt",
+      "version": 1,
+      "namePt": "Inscreva-se",
+      "durationSeconds": 4,
+      "thumbnail": "Titulo-Inscreva-se-thumb.png",
+      "preview": "Titulo-Inscreva-se-preview.mp4"
     }
   ]
 }
