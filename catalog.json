@@ -418,17 +418,6 @@
       "preview": "Legenda-Beast-preview.mp4"
     },
     {
-      "id": "caption-caixa",
-      "name": "Box",
-      "category": "Captions",
-      "filename": "Legenda-Caixa.mogrt",
-      "version": 1,
-      "namePt": "Caixa",
-      "durationSeconds": 2,
-      "thumbnail": "Legenda-Caixa-thumb.png",
-      "preview": "Legenda-Caixa-preview.mp4"
-    },
-    {
       "id": "caption-clean",
       "name": "Clean",
       "category": "Captions",
@@ -559,6 +548,17 @@
       "durationSeconds": 4,
       "thumbnail": "Titulo-Inscreva-se-thumb.png",
       "preview": "Titulo-Inscreva-se-preview.mp4"
+    },
+    {
+      "id": "caption-caixa",
+      "name": "Box",
+      "category": "Captions",
+      "filename": "Legenda-Caixa-v2.mogrt",
+      "version": 2,
+      "namePt": "Caixa",
+      "durationSeconds": 2,
+      "thumbnail": "Legenda-Caixa-v2-thumb.png",
+      "preview": "Legenda-Caixa-v2-preview.mp4"
     }
   ]
 }
