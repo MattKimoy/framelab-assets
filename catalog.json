@@ -325,6 +325,86 @@
       "namePt": "Coração",
       "subcategory": "social",
       "thumbnail": "Heart-Solid-preview.png"
+    },
+    {
+      "id": "hud-safezone-tiktok",
+      "name": "TikTok",
+      "category": "HUD Library",
+      "filename": "Hud-Safezone-TikTok.png",
+      "version": 1,
+      "namePt": "TikTok",
+      "subcategory": "safezones",
+      "thumbnail": "Hud-Safezone-TikTok.png"
+    },
+    {
+      "id": "hud-safezone-reels",
+      "name": "Reels",
+      "category": "HUD Library",
+      "filename": "Hud-Safezone-Reels.png",
+      "version": 1,
+      "namePt": "Reels",
+      "subcategory": "safezones",
+      "thumbnail": "Hud-Safezone-Reels.png"
+    },
+    {
+      "id": "hud-safezone-shorts",
+      "name": "Shorts",
+      "category": "HUD Library",
+      "filename": "Hud-Safezone-Shorts.png",
+      "version": 1,
+      "namePt": "Shorts",
+      "subcategory": "safezones",
+      "thumbnail": "Hud-Safezone-Shorts.png"
+    },
+    {
+      "id": "hud-safezone-youtube",
+      "name": "YouTube",
+      "category": "HUD Library",
+      "filename": "Hud-Safezone-YouTube.png",
+      "version": 1,
+      "namePt": "YouTube",
+      "subcategory": "safezones",
+      "thumbnail": "Hud-Safezone-YouTube.png"
+    },
+    {
+      "id": "hud-camera-1",
+      "name": "Camera 1",
+      "category": "HUD Library",
+      "filename": "Hud-Camera-1.png",
+      "version": 1,
+      "namePt": "Camera 1",
+      "subcategory": "camera",
+      "thumbnail": "Hud-Camera-1.png"
+    },
+    {
+      "id": "hud-camera-2",
+      "name": "Camera 2",
+      "category": "HUD Library",
+      "filename": "Hud-Camera-2.png",
+      "version": 1,
+      "namePt": "Camera 2",
+      "subcategory": "camera",
+      "thumbnail": "Hud-Camera-2.png"
+    },
+    {
+      "id": "hud-video-1",
+      "name": "Video 1",
+      "category": "HUD Library",
+      "filename": "Hud-Video-1.png",
+      "version": 1,
+      "namePt": "Video 1",
+      "subcategory": "camera",
+      "thumbnail": "Hud-Video-1.png"
+    },
+    {
+      "id": "hud-video-2",
+      "name": "Video 2",
+      "category": "HUD Library",
+      "filename": "Hud-Video-2.png",
+      "version": 1,
+      "namePt": "Video 2",
+      "subcategory": "camera",
+      "thumbnail": "Hud-Video-2.png"
     }
   ]
 }
