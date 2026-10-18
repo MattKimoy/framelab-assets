@@ -407,72 +407,6 @@
       "thumbnail": "Hud-Video-2.png"
     },
     {
-      "id": "caption-beast",
-      "name": "Beast",
-      "category": "Captions",
-      "filename": "Legenda-Beast.mogrt",
-      "version": 1,
-      "namePt": "Beast",
-      "durationSeconds": 2,
-      "thumbnail": "Legenda-Beast-thumb.png",
-      "preview": "Legenda-Beast-preview.mp4"
-    },
-    {
-      "id": "caption-clean",
-      "name": "Clean",
-      "category": "Captions",
-      "filename": "Legenda-Clean.mogrt",
-      "version": 1,
-      "namePt": "Clean",
-      "durationSeconds": 2,
-      "thumbnail": "Legenda-Clean-thumb.png",
-      "preview": "Legenda-Clean-preview.mp4"
-    },
-    {
-      "id": "caption-hormozi",
-      "name": "Hormozi",
-      "category": "Captions",
-      "filename": "Legenda-Hormozi.mogrt",
-      "version": 1,
-      "namePt": "Hormozi",
-      "durationSeconds": 2,
-      "thumbnail": "Legenda-Hormozi-thumb.png",
-      "preview": "Legenda-Hormozi-preview.mp4"
-    },
-    {
-      "id": "caption-karaoke",
-      "name": "Karaoke",
-      "category": "Captions",
-      "filename": "Legenda-Karaoke.mogrt",
-      "version": 1,
-      "namePt": "Karaokê",
-      "durationSeconds": 2,
-      "thumbnail": "Legenda-Karaoke-thumb.png",
-      "preview": "Legenda-Karaoke-preview.mp4"
-    },
-    {
-      "id": "caption-neon",
-      "name": "Neon",
-      "category": "Captions",
-      "filename": "Legenda-Neon.mogrt",
-      "version": 1,
-      "namePt": "Neon",
-      "durationSeconds": 2,
-      "thumbnail": "Legenda-Neon-thumb.png",
-      "preview": "Legenda-Neon-preview.mp4"
-    },
-    {
-      "id": "caption-typewriter",
-      "name": "Typewriter",
-      "category": "Captions",
-      "filename": "Legenda-Maquina-de-Escrever.mogrt",
-      "version": 1,
-      "namePt": "Máquina de Escrever",
-      "durationSeconds": 2,
-      "thumbnail": "Legenda-Maquina-de-Escrever-thumb.png",
-      "preview": "Legenda-Maquina-de-Escrever-preview.mp4"
-    },
-    {
       "id": "title-arrow-label",
       "name": "Arrow Label",
       "category": "Titles",
@@ -550,15 +484,81 @@
       "preview": "Titulo-Inscreva-se-preview.mp4"
     },
     {
+      "id": "caption-beast",
+      "name": "Beast",
+      "category": "Captions",
+      "filename": "Legenda-Beast-v2.mogrt",
+      "version": 2,
+      "namePt": "Beast",
+      "durationSeconds": 2,
+      "thumbnail": "Legenda-Beast-v2-thumb.png",
+      "preview": "Legenda-Beast-v2-preview.mp4"
+    },
+    {
       "id": "caption-caixa",
       "name": "Box",
       "category": "Captions",
-      "filename": "Legenda-Caixa-v2.mogrt",
-      "version": 2,
+      "filename": "Legenda-Caixa-v3.mogrt",
+      "version": 3,
       "namePt": "Caixa",
       "durationSeconds": 2,
-      "thumbnail": "Legenda-Caixa-v2-thumb.png",
-      "preview": "Legenda-Caixa-v2-preview.mp4"
+      "thumbnail": "Legenda-Caixa-v3-thumb.png",
+      "preview": "Legenda-Caixa-v3-preview.mp4"
+    },
+    {
+      "id": "caption-clean",
+      "name": "Clean",
+      "category": "Captions",
+      "filename": "Legenda-Clean-v2.mogrt",
+      "version": 2,
+      "namePt": "Clean",
+      "durationSeconds": 2,
+      "thumbnail": "Legenda-Clean-v2-thumb.png",
+      "preview": "Legenda-Clean-v2-preview.mp4"
+    },
+    {
+      "id": "caption-hormozi",
+      "name": "Hormozi",
+      "category": "Captions",
+      "filename": "Legenda-Hormozi-v2.mogrt",
+      "version": 2,
+      "namePt": "Hormozi",
+      "durationSeconds": 2,
+      "thumbnail": "Legenda-Hormozi-v2-thumb.png",
+      "preview": "Legenda-Hormozi-v2-preview.mp4"
+    },
+    {
+      "id": "caption-karaoke",
+      "name": "Karaoke",
+      "category": "Captions",
+      "filename": "Legenda-Karaoke-v2.mogrt",
+      "version": 2,
+      "namePt": "Karaokê",
+      "durationSeconds": 2,
+      "thumbnail": "Legenda-Karaoke-v2-thumb.png",
+      "preview": "Legenda-Karaoke-v2-preview.mp4"
+    },
+    {
+      "id": "caption-neon",
+      "name": "Neon",
+      "category": "Captions",
+      "filename": "Legenda-Neon-v2.mogrt",
+      "version": 2,
+      "namePt": "Neon",
+      "durationSeconds": 2,
+      "thumbnail": "Legenda-Neon-v2-thumb.png",
+      "preview": "Legenda-Neon-v2-preview.mp4"
+    },
+    {
+      "id": "caption-typewriter",
+      "name": "Typewriter",
+      "category": "Captions",
+      "filename": "Legenda-Maquina-de-Escrever-v2.mogrt",
+      "version": 2,
+      "namePt": "Máquina de Escrever",
+      "durationSeconds": 2,
+      "thumbnail": "Legenda-Maquina-de-Escrever-v2-thumb.png",
+      "preview": "Legenda-Maquina-de-Escrever-v2-preview.mp4"
     }
   ]
 }
