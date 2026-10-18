@@ -407,147 +407,147 @@
       "thumbnail": "Hud-Video-2.png"
     },
     {
-      "id": "title-chapter",
-      "name": "Chapter",
-      "category": "Titles",
-      "filename": "Titulo-Capitulo.mogrt",
-      "version": 1,
-      "namePt": "Capítulo",
-      "durationSeconds": 4,
-      "thumbnail": "Titulo-Capitulo-thumb.png",
-      "preview": "Titulo-Capitulo-preview.mp4"
-    },
-    {
-      "id": "title-counter",
-      "name": "Counter",
-      "category": "Titles",
-      "filename": "Titulo-Contador.mogrt",
-      "version": 1,
-      "namePt": "Contador",
-      "durationSeconds": 4,
-      "thumbnail": "Titulo-Contador-thumb.png",
-      "preview": "Titulo-Contador-preview.mp4"
-    },
-    {
-      "id": "title-highlighter",
-      "name": "Highlighter",
-      "category": "Titles",
-      "filename": "Titulo-Marca-texto.mogrt",
-      "version": 1,
-      "namePt": "Marca-texto",
-      "durationSeconds": 4,
-      "thumbnail": "Titulo-Marca-texto-thumb.png",
-      "preview": "Titulo-Marca-texto-preview.mp4"
-    },
-    {
-      "id": "title-impact",
-      "name": "Impact",
-      "category": "Titles",
-      "filename": "Titulo-Impacto.mogrt",
-      "version": 1,
-      "namePt": "Impacto",
-      "durationSeconds": 4,
-      "thumbnail": "Titulo-Impacto-thumb.png",
-      "preview": "Titulo-Impacto-preview.mp4"
-    },
-    {
-      "id": "title-lower-third",
-      "name": "Name and Role",
-      "category": "Titles",
-      "filename": "Titulo-Nome-e-Cargo.mogrt",
-      "version": 1,
-      "namePt": "Nome e Cargo",
-      "durationSeconds": 4,
-      "thumbnail": "Titulo-Nome-e-Cargo-thumb.png",
-      "preview": "Titulo-Nome-e-Cargo-preview.mp4"
-    },
-    {
-      "id": "title-subscribe",
-      "name": "Subscribe",
-      "category": "Titles",
-      "filename": "Titulo-Inscreva-se.mogrt",
-      "version": 1,
-      "namePt": "Inscreva-se",
-      "durationSeconds": 4,
-      "thumbnail": "Titulo-Inscreva-se-thumb.png",
-      "preview": "Titulo-Inscreva-se-preview.mp4"
-    },
-    {
       "id": "caption-beast",
       "name": "Beast",
       "category": "Captions",
-      "filename": "Legenda-Beast-v2.mogrt",
-      "version": 2,
+      "filename": "Legenda-Beast-v3.mogrt",
+      "version": 3,
       "namePt": "Beast",
       "durationSeconds": 4,
-      "thumbnail": "Legenda-Beast-v2-thumb.png",
-      "preview": "Legenda-Beast-v2-preview.mp4"
+      "thumbnail": "Legenda-Beast-v3-thumb.png",
+      "preview": "Legenda-Beast-v3-preview.mp4"
     },
     {
       "id": "caption-caixa",
       "name": "Box",
       "category": "Captions",
-      "filename": "Legenda-Caixa-v3.mogrt",
-      "version": 3,
+      "filename": "Legenda-Caixa-v4.mogrt",
+      "version": 4,
       "namePt": "Caixa",
       "durationSeconds": 4,
-      "thumbnail": "Legenda-Caixa-v3-thumb.png",
-      "preview": "Legenda-Caixa-v3-preview.mp4"
+      "thumbnail": "Legenda-Caixa-v4-thumb.png",
+      "preview": "Legenda-Caixa-v4-preview.mp4"
     },
     {
       "id": "caption-clean",
       "name": "Clean",
       "category": "Captions",
-      "filename": "Legenda-Clean-v2.mogrt",
-      "version": 2,
+      "filename": "Legenda-Clean-v3.mogrt",
+      "version": 3,
       "namePt": "Clean",
       "durationSeconds": 4,
-      "thumbnail": "Legenda-Clean-v2-thumb.png",
-      "preview": "Legenda-Clean-v2-preview.mp4"
+      "thumbnail": "Legenda-Clean-v3-thumb.png",
+      "preview": "Legenda-Clean-v3-preview.mp4"
     },
     {
       "id": "caption-hormozi",
       "name": "Hormozi",
       "category": "Captions",
-      "filename": "Legenda-Hormozi-v2.mogrt",
-      "version": 2,
+      "filename": "Legenda-Hormozi-v3.mogrt",
+      "version": 3,
       "namePt": "Hormozi",
       "durationSeconds": 4,
-      "thumbnail": "Legenda-Hormozi-v2-thumb.png",
-      "preview": "Legenda-Hormozi-v2-preview.mp4"
+      "thumbnail": "Legenda-Hormozi-v3-thumb.png",
+      "preview": "Legenda-Hormozi-v3-preview.mp4"
     },
     {
       "id": "caption-karaoke",
       "name": "Karaoke",
       "category": "Captions",
-      "filename": "Legenda-Karaoke-v2.mogrt",
-      "version": 2,
+      "filename": "Legenda-Karaoke-v3.mogrt",
+      "version": 3,
       "namePt": "Karaokê",
       "durationSeconds": 4,
-      "thumbnail": "Legenda-Karaoke-v2-thumb.png",
-      "preview": "Legenda-Karaoke-v2-preview.mp4"
+      "thumbnail": "Legenda-Karaoke-v3-thumb.png",
+      "preview": "Legenda-Karaoke-v3-preview.mp4"
     },
     {
       "id": "caption-neon",
       "name": "Neon",
       "category": "Captions",
-      "filename": "Legenda-Neon-v2.mogrt",
-      "version": 2,
+      "filename": "Legenda-Neon-v3.mogrt",
+      "version": 3,
       "namePt": "Neon",
       "durationSeconds": 4,
-      "thumbnail": "Legenda-Neon-v2-thumb.png",
-      "preview": "Legenda-Neon-v2-preview.mp4"
+      "thumbnail": "Legenda-Neon-v3-thumb.png",
+      "preview": "Legenda-Neon-v3-preview.mp4"
     },
     {
       "id": "caption-typewriter",
       "name": "Typewriter",
       "category": "Captions",
-      "filename": "Legenda-Maquina-de-Escrever-v2.mogrt",
-      "version": 2,
+      "filename": "Legenda-Maquina-de-Escrever-v3.mogrt",
+      "version": 3,
       "namePt": "Máquina de Escrever",
       "durationSeconds": 4,
-      "thumbnail": "Legenda-Maquina-de-Escrever-v2-thumb.png",
-      "preview": "Legenda-Maquina-de-Escrever-v2-preview.mp4"
+      "thumbnail": "Legenda-Maquina-de-Escrever-v3-thumb.png",
+      "preview": "Legenda-Maquina-de-Escrever-v3-preview.mp4"
+    },
+    {
+      "id": "title-chapter",
+      "name": "Chapter",
+      "category": "Titles",
+      "filename": "Titulo-Capitulo-v2.mogrt",
+      "version": 2,
+      "namePt": "Capítulo",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-Capitulo-v2-thumb.png",
+      "preview": "Titulo-Capitulo-v2-preview.mp4"
+    },
+    {
+      "id": "title-counter",
+      "name": "Counter",
+      "category": "Titles",
+      "filename": "Titulo-Contador-v2.mogrt",
+      "version": 2,
+      "namePt": "Contador",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-Contador-v2-thumb.png",
+      "preview": "Titulo-Contador-v2-preview.mp4"
+    },
+    {
+      "id": "title-highlighter",
+      "name": "Highlighter",
+      "category": "Titles",
+      "filename": "Titulo-Marca-texto-v2.mogrt",
+      "version": 2,
+      "namePt": "Marca-texto",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-Marca-texto-v2-thumb.png",
+      "preview": "Titulo-Marca-texto-v2-preview.mp4"
+    },
+    {
+      "id": "title-impact",
+      "name": "Impact",
+      "category": "Titles",
+      "filename": "Titulo-Impacto-v2.mogrt",
+      "version": 2,
+      "namePt": "Impacto",
+      "durationSeconds": 3,
+      "thumbnail": "Titulo-Impacto-v2-thumb.png",
+      "preview": "Titulo-Impacto-v2-preview.mp4"
+    },
+    {
+      "id": "title-lower-third",
+      "name": "Name and Role",
+      "category": "Titles",
+      "filename": "Titulo-Nome-e-Cargo-v2.mogrt",
+      "version": 2,
+      "namePt": "Nome e Cargo",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-Nome-e-Cargo-v2-thumb.png",
+      "preview": "Titulo-Nome-e-Cargo-v2-preview.mp4"
+    },
+    {
+      "id": "title-subscribe",
+      "name": "Subscribe",
+      "category": "Titles",
+      "filename": "Titulo-Inscreva-se-v2.mogrt",
+      "version": 2,
+      "namePt": "Inscreva-se",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-Inscreva-se-v2-thumb.png",
+      "preview": "Titulo-Inscreva-se-v2-preview.mp4"
     }
   ]
 }
