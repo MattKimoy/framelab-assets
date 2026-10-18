@@ -407,17 +407,6 @@
       "thumbnail": "Hud-Video-2.png"
     },
     {
-      "id": "title-arrow-label",
-      "name": "Arrow Label",
-      "category": "Titles",
-      "filename": "Titulo-Etiqueta-com-Seta.mogrt",
-      "version": 1,
-      "namePt": "Etiqueta com Seta",
-      "durationSeconds": 4,
-      "thumbnail": "Titulo-Etiqueta-com-Seta-thumb.png",
-      "preview": "Titulo-Etiqueta-com-Seta-preview.mp4"
-    },
-    {
       "id": "title-chapter",
       "name": "Chapter",
       "category": "Titles",
@@ -490,7 +479,7 @@
       "filename": "Legenda-Beast-v2.mogrt",
       "version": 2,
       "namePt": "Beast",
-      "durationSeconds": 2,
+      "durationSeconds": 4,
       "thumbnail": "Legenda-Beast-v2-thumb.png",
       "preview": "Legenda-Beast-v2-preview.mp4"
     },
@@ -501,7 +490,7 @@
       "filename": "Legenda-Caixa-v3.mogrt",
       "version": 3,
       "namePt": "Caixa",
-      "durationSeconds": 2,
+      "durationSeconds": 4,
       "thumbnail": "Legenda-Caixa-v3-thumb.png",
       "preview": "Legenda-Caixa-v3-preview.mp4"
     },
@@ -512,7 +501,7 @@
       "filename": "Legenda-Clean-v2.mogrt",
       "version": 2,
       "namePt": "Clean",
-      "durationSeconds": 2,
+      "durationSeconds": 4,
       "thumbnail": "Legenda-Clean-v2-thumb.png",
       "preview": "Legenda-Clean-v2-preview.mp4"
     },
@@ -523,7 +512,7 @@
       "filename": "Legenda-Hormozi-v2.mogrt",
       "version": 2,
       "namePt": "Hormozi",
-      "durationSeconds": 2,
+      "durationSeconds": 4,
       "thumbnail": "Legenda-Hormozi-v2-thumb.png",
       "preview": "Legenda-Hormozi-v2-preview.mp4"
     },
@@ -534,7 +523,7 @@
       "filename": "Legenda-Karaoke-v2.mogrt",
       "version": 2,
       "namePt": "Karaokê",
-      "durationSeconds": 2,
+      "durationSeconds": 4,
       "thumbnail": "Legenda-Karaoke-v2-thumb.png",
       "preview": "Legenda-Karaoke-v2-preview.mp4"
     },
@@ -545,7 +534,7 @@
       "filename": "Legenda-Neon-v2.mogrt",
       "version": 2,
       "namePt": "Neon",
-      "durationSeconds": 2,
+      "durationSeconds": 4,
       "thumbnail": "Legenda-Neon-v2-thumb.png",
       "preview": "Legenda-Neon-v2-preview.mp4"
     },
@@ -556,7 +545,7 @@
       "filename": "Legenda-Maquina-de-Escrever-v2.mogrt",
       "version": 2,
       "namePt": "Máquina de Escrever",
-      "durationSeconds": 2,
+      "durationSeconds": 4,
       "thumbnail": "Legenda-Maquina-de-Escrever-v2-thumb.png",
       "preview": "Legenda-Maquina-de-Escrever-v2-preview.mp4"
     }
