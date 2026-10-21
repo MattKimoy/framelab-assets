@@ -268,16 +268,6 @@
       "version": 1
     },
     {
-      "id": "those-dudes",
-      "name": "Those Dudes",
-      "category": "Titles",
-      "filename": "Those-Dudes.mogrt",
-      "thumbnail": "Those-Dudes-thumb.jpg",
-      "preview": "Those-Dudes-preview.gif",
-      "durationSeconds": 15,
-      "version": 1
-    },
-    {
       "id": "coin",
       "name": "Coin",
       "category": "Essential Icons",
@@ -487,67 +477,133 @@
       "id": "title-chapter",
       "name": "Chapter",
       "category": "Titles",
-      "filename": "Titulo-Capitulo-v2.mogrt",
-      "version": 2,
+      "filename": "Titulo-Capitulo-v3.mogrt",
+      "version": 3,
       "namePt": "Capítulo",
       "durationSeconds": 5,
-      "thumbnail": "Titulo-Capitulo-v2-thumb.png",
-      "preview": "Titulo-Capitulo-v2-preview.mp4"
+      "thumbnail": "Titulo-Capitulo-v3-thumb.png",
+      "preview": "Titulo-Capitulo-v3-preview.mp4"
     },
     {
       "id": "title-counter",
       "name": "Counter",
       "category": "Titles",
-      "filename": "Titulo-Contador-v2.mogrt",
-      "version": 2,
+      "filename": "Titulo-Contador-v3.mogrt",
+      "version": 3,
       "namePt": "Contador",
       "durationSeconds": 5,
-      "thumbnail": "Titulo-Contador-v2-thumb.png",
-      "preview": "Titulo-Contador-v2-preview.mp4"
+      "thumbnail": "Titulo-Contador-v3-thumb.png",
+      "preview": "Titulo-Contador-v3-preview.mp4"
+    },
+    {
+      "id": "title-cta-button",
+      "name": "CTA Buy Button",
+      "category": "Titles",
+      "filename": "Titulo-CTA-Botao.mogrt",
+      "version": 1,
+      "namePt": "CTA Botão Comprar",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-CTA-Botao-thumb.png",
+      "preview": "Titulo-CTA-Botao-preview.mp4"
+    },
+    {
+      "id": "title-cta-guarantee",
+      "name": "CTA Guarantee",
+      "category": "Titles",
+      "filename": "Titulo-CTA-Garantia.mogrt",
+      "version": 1,
+      "namePt": "CTA Selo de Garantia",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-CTA-Garantia-thumb.png",
+      "preview": "Titulo-CTA-Garantia-preview.mp4"
+    },
+    {
+      "id": "title-cta-price",
+      "name": "CTA Price",
+      "category": "Titles",
+      "filename": "Titulo-CTA-Preco.mogrt",
+      "version": 1,
+      "namePt": "CTA Preço",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-CTA-Preco-thumb.png",
+      "preview": "Titulo-CTA-Preco-preview.mp4"
+    },
+    {
+      "id": "title-cta-stock",
+      "name": "CTA Low Stock",
+      "category": "Titles",
+      "filename": "Titulo-CTA-Estoque.mogrt",
+      "version": 1,
+      "namePt": "CTA Estoque Acabando",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-CTA-Estoque-thumb.png",
+      "preview": "Titulo-CTA-Estoque-preview.mp4"
+    },
+    {
+      "id": "title-cta-timer",
+      "name": "CTA Countdown",
+      "category": "Titles",
+      "filename": "Titulo-CTA-Contagem.mogrt",
+      "version": 1,
+      "namePt": "CTA Contagem Regressiva",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-CTA-Contagem-thumb.png",
+      "preview": "Titulo-CTA-Contagem-preview.mp4"
     },
     {
       "id": "title-highlighter",
       "name": "Highlighter",
       "category": "Titles",
-      "filename": "Titulo-Marca-texto-v2.mogrt",
-      "version": 2,
+      "filename": "Titulo-Marca-texto-v3.mogrt",
+      "version": 3,
       "namePt": "Marca-texto",
       "durationSeconds": 5,
-      "thumbnail": "Titulo-Marca-texto-v2-thumb.png",
-      "preview": "Titulo-Marca-texto-v2-preview.mp4"
+      "thumbnail": "Titulo-Marca-texto-v3-thumb.png",
+      "preview": "Titulo-Marca-texto-v3-preview.mp4"
     },
     {
       "id": "title-impact",
       "name": "Impact",
       "category": "Titles",
-      "filename": "Titulo-Impacto-v2.mogrt",
-      "version": 2,
+      "filename": "Titulo-Impacto-v3.mogrt",
+      "version": 3,
       "namePt": "Impacto",
       "durationSeconds": 3,
-      "thumbnail": "Titulo-Impacto-v2-thumb.png",
-      "preview": "Titulo-Impacto-v2-preview.mp4"
+      "thumbnail": "Titulo-Impacto-v3-thumb.png",
+      "preview": "Titulo-Impacto-v3-preview.mp4"
     },
     {
       "id": "title-lower-third",
       "name": "Name and Role",
       "category": "Titles",
-      "filename": "Titulo-Nome-e-Cargo-v2.mogrt",
-      "version": 2,
+      "filename": "Titulo-Nome-e-Cargo-v3.mogrt",
+      "version": 3,
       "namePt": "Nome e Cargo",
       "durationSeconds": 5,
-      "thumbnail": "Titulo-Nome-e-Cargo-v2-thumb.png",
-      "preview": "Titulo-Nome-e-Cargo-v2-preview.mp4"
+      "thumbnail": "Titulo-Nome-e-Cargo-v3-thumb.png",
+      "preview": "Titulo-Nome-e-Cargo-v3-preview.mp4"
     },
     {
       "id": "title-subscribe",
       "name": "Subscribe",
       "category": "Titles",
-      "filename": "Titulo-Inscreva-se-v2.mogrt",
-      "version": 2,
+      "filename": "Titulo-Inscreva-se-v3.mogrt",
+      "version": 3,
       "namePt": "Inscreva-se",
       "durationSeconds": 5,
-      "thumbnail": "Titulo-Inscreva-se-v2-thumb.png",
-      "preview": "Titulo-Inscreva-se-v2-preview.mp4"
+      "thumbnail": "Titulo-Inscreva-se-v3-thumb.png",
+      "preview": "Titulo-Inscreva-se-v3-preview.mp4"
+    },
+    {
+      "id": "those-dudes",
+      "name": "Those Dudes",
+      "category": "Titles",
+      "filename": "Those-Dudes-v2.mogrt",
+      "version": 2,
+      "namePt": "Those Dudes",
+      "durationSeconds": 15,
+      "thumbnail": "Those-Dudes-v2-thumb.png",
+      "preview": "Those-Dudes-v2-preview.mp4"
     }
   ]
 }
