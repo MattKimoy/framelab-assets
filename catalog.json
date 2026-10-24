@@ -704,6 +704,17 @@
       "durationSeconds": 5,
       "thumbnail": "Titulo-CTA-Estoque-v4-thumb.png",
       "preview": "Titulo-CTA-Estoque-v4-preview.mp4"
+    },
+    {
+      "id": "caption-editorial",
+      "name": "Editorial",
+      "category": "Captions",
+      "filename": "Legenda-Editorial.mogrt",
+      "version": 1,
+      "namePt": "Editorial",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Editorial-thumb.png",
+      "preview": "Legenda-Editorial-preview.mp4"
     }
   ]
 }
