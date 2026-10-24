@@ -569,54 +569,6 @@
       "preview": "Legenda-Maquina-de-Escrever-v6-preview.mp4"
     },
     {
-      "id": "title-counter",
-      "name": "Counter",
-      "category": "Titles",
-      "filename": "Titulo-Contador-v5.mogrt",
-      "version": 5,
-      "namePt": "Contador",
-      "subcategory": "valores",
-      "durationSeconds": 5,
-      "thumbnail": "Titulo-Contador-v5-thumb.png",
-      "preview": "Titulo-Contador-v5-preview.mp4"
-    },
-    {
-      "id": "title-cta-guarantee",
-      "name": "CTA Guarantee",
-      "category": "Titles",
-      "filename": "Titulo-CTA-Garantia-v3.mogrt",
-      "version": 3,
-      "namePt": "CTA Selo de Garantia",
-      "subcategory": "cta",
-      "durationSeconds": 5,
-      "thumbnail": "Titulo-CTA-Garantia-v3-thumb.png",
-      "preview": "Titulo-CTA-Garantia-v3-preview.mp4"
-    },
-    {
-      "id": "title-cta-price",
-      "name": "CTA Price",
-      "category": "Titles",
-      "filename": "Titulo-CTA-Preco-v3.mogrt",
-      "version": 3,
-      "namePt": "CTA Preço",
-      "subcategory": "valores",
-      "durationSeconds": 5,
-      "thumbnail": "Titulo-CTA-Preco-v3-thumb.png",
-      "preview": "Titulo-CTA-Preco-v3-preview.mp4"
-    },
-    {
-      "id": "title-cta-stock",
-      "name": "CTA Low Stock",
-      "category": "Titles",
-      "filename": "Titulo-CTA-Estoque-v3.mogrt",
-      "version": 3,
-      "namePt": "CTA Estoque Acabando",
-      "subcategory": "cta",
-      "durationSeconds": 5,
-      "thumbnail": "Titulo-CTA-Estoque-v3-thumb.png",
-      "preview": "Titulo-CTA-Estoque-v3-preview.mp4"
-    },
-    {
       "id": "those-dudes",
       "name": "Those Dudes",
       "category": "Titles",
@@ -704,6 +656,54 @@
       "durationSeconds": 4,
       "thumbnail": "Legenda-Fogo-v4-thumb.png",
       "preview": "Legenda-Fogo-v4-preview.mp4"
+    },
+    {
+      "id": "title-counter",
+      "name": "Counter",
+      "category": "Titles",
+      "filename": "Titulo-Contador-v6.mogrt",
+      "version": 6,
+      "namePt": "Contador",
+      "subcategory": "valores",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-Contador-v6-thumb.png",
+      "preview": "Titulo-Contador-v6-preview.mp4"
+    },
+    {
+      "id": "title-cta-guarantee",
+      "name": "CTA Guarantee",
+      "category": "Titles",
+      "filename": "Titulo-CTA-Garantia-v4.mogrt",
+      "version": 4,
+      "namePt": "CTA Selo de Garantia",
+      "subcategory": "cta",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-CTA-Garantia-v4-thumb.png",
+      "preview": "Titulo-CTA-Garantia-v4-preview.mp4"
+    },
+    {
+      "id": "title-cta-price",
+      "name": "CTA Price",
+      "category": "Titles",
+      "filename": "Titulo-CTA-Preco-v4.mogrt",
+      "version": 4,
+      "namePt": "CTA Preço",
+      "subcategory": "valores",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-CTA-Preco-v4-thumb.png",
+      "preview": "Titulo-CTA-Preco-v4-preview.mp4"
+    },
+    {
+      "id": "title-cta-stock",
+      "name": "CTA Low Stock",
+      "category": "Titles",
+      "filename": "Titulo-CTA-Estoque-v4.mogrt",
+      "version": 4,
+      "namePt": "CTA Estoque Acabando",
+      "subcategory": "cta",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-CTA-Estoque-v4-thumb.png",
+      "preview": "Titulo-CTA-Estoque-v4-preview.mp4"
     }
   ]
 }
