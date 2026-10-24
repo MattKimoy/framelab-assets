@@ -405,7 +405,8 @@
       "namePt": "Capítulo",
       "durationSeconds": 5,
       "thumbnail": "Titulo-Capitulo-v4-thumb.png",
-      "preview": "Titulo-Capitulo-v4-preview.mp4"
+      "preview": "Titulo-Capitulo-v4-preview.mp4",
+      "subcategory": "telas"
     },
     {
       "id": "title-cta-button",
@@ -416,7 +417,8 @@
       "namePt": "CTA Botão Comprar",
       "durationSeconds": 5,
       "thumbnail": "Titulo-CTA-Botao-v2-thumb.png",
-      "preview": "Titulo-CTA-Botao-v2-preview.mp4"
+      "preview": "Titulo-CTA-Botao-v2-preview.mp4",
+      "subcategory": "botoes"
     },
     {
       "id": "title-cta-timer",
@@ -427,7 +429,8 @@
       "namePt": "CTA Contagem Regressiva",
       "durationSeconds": 5,
       "thumbnail": "Titulo-CTA-Contagem-v2-thumb.png",
-      "preview": "Titulo-CTA-Contagem-v2-preview.mp4"
+      "preview": "Titulo-CTA-Contagem-v2-preview.mp4",
+      "subcategory": "cta"
     },
     {
       "id": "title-highlighter",
@@ -438,7 +441,8 @@
       "namePt": "Marca-texto",
       "durationSeconds": 5,
       "thumbnail": "Titulo-Marca-texto-v5-thumb.png",
-      "preview": "Titulo-Marca-texto-v5-preview.mp4"
+      "preview": "Titulo-Marca-texto-v5-preview.mp4",
+      "subcategory": "textos"
     },
     {
       "id": "title-impact",
@@ -449,7 +453,8 @@
       "namePt": "Impacto",
       "durationSeconds": 3,
       "thumbnail": "Titulo-Impacto-v4-thumb.png",
-      "preview": "Titulo-Impacto-v4-preview.mp4"
+      "preview": "Titulo-Impacto-v4-preview.mp4",
+      "subcategory": "impacto"
     },
     {
       "id": "title-lower-third",
@@ -460,7 +465,8 @@
       "namePt": "Lower Third",
       "durationSeconds": 5,
       "thumbnail": "Titulo-Lower-Third-v5-thumb.png",
-      "preview": "Titulo-Lower-Third-v5-preview.mp4"
+      "preview": "Titulo-Lower-Third-v5-preview.mp4",
+      "subcategory": "textos"
     },
     {
       "id": "title-subscribe",
@@ -471,7 +477,8 @@
       "namePt": "Inscreva-se",
       "durationSeconds": 5,
       "thumbnail": "Titulo-Inscreva-se-v5-thumb.png",
-      "preview": "Titulo-Inscreva-se-v5-preview.mp4"
+      "preview": "Titulo-Inscreva-se-v5-preview.mp4",
+      "subcategory": "botoes"
     },
     {
       "id": "caption-beast",
