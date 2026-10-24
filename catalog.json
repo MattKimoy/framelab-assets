@@ -481,28 +481,6 @@
       "subcategory": "botoes"
     },
     {
-      "id": "caption-beast",
-      "name": "Beast",
-      "category": "Captions",
-      "filename": "Legenda-Beast-v6.mogrt",
-      "version": 6,
-      "namePt": "Beast",
-      "durationSeconds": 4,
-      "thumbnail": "Legenda-Beast-v6-thumb.png",
-      "preview": "Legenda-Beast-v6-preview.mp4"
-    },
-    {
-      "id": "caption-bolha",
-      "name": "Bubble",
-      "category": "Captions",
-      "filename": "Legenda-Bolha-v2.mogrt",
-      "version": 2,
-      "namePt": "Bolha",
-      "durationSeconds": 4,
-      "thumbnail": "Legenda-Bolha-v2-thumb.png",
-      "preview": "Legenda-Bolha-v2-preview.mp4"
-    },
-    {
       "id": "caption-brilho",
       "name": "Glow",
       "category": "Captions",
@@ -547,50 +525,6 @@
       "preview": "Legenda-Desfoque-v2-preview.mp4"
     },
     {
-      "id": "caption-fogo",
-      "name": "Fire",
-      "category": "Captions",
-      "filename": "Legenda-Fogo-v2.mogrt",
-      "version": 2,
-      "namePt": "Fogo",
-      "durationSeconds": 4,
-      "thumbnail": "Legenda-Fogo-v2-thumb.png",
-      "preview": "Legenda-Fogo-v2-preview.mp4"
-    },
-    {
-      "id": "caption-hormozi",
-      "name": "Hormozi",
-      "category": "Captions",
-      "filename": "Legenda-Hormozi-v6.mogrt",
-      "version": 6,
-      "namePt": "Hormozi",
-      "durationSeconds": 4,
-      "thumbnail": "Legenda-Hormozi-v6-thumb.png",
-      "preview": "Legenda-Hormozi-v6-preview.mp4"
-    },
-    {
-      "id": "caption-impacto",
-      "name": "Impact",
-      "category": "Captions",
-      "filename": "Legenda-Impacto-v2.mogrt",
-      "version": 2,
-      "namePt": "Impacto",
-      "durationSeconds": 4,
-      "thumbnail": "Legenda-Impacto-v2-thumb.png",
-      "preview": "Legenda-Impacto-v2-preview.mp4"
-    },
-    {
-      "id": "caption-karaoke",
-      "name": "Karaoke",
-      "category": "Captions",
-      "filename": "Legenda-Karaoke-v6.mogrt",
-      "version": 6,
-      "namePt": "Karaokê",
-      "durationSeconds": 4,
-      "thumbnail": "Legenda-Karaoke-v6-thumb.png",
-      "preview": "Legenda-Karaoke-v6-preview.mp4"
-    },
-    {
       "id": "caption-neon",
       "name": "Neon",
       "category": "Captions",
@@ -633,17 +567,6 @@
       "durationSeconds": 4,
       "thumbnail": "Legenda-Maquina-de-Escrever-v6-thumb.png",
       "preview": "Legenda-Maquina-de-Escrever-v6-preview.mp4"
-    },
-    {
-      "id": "caption-uma-palavra",
-      "name": "One Word",
-      "category": "Captions",
-      "filename": "Legenda-Uma-Palavra-v2.mogrt",
-      "version": 2,
-      "namePt": "Uma Palavra",
-      "durationSeconds": 4,
-      "thumbnail": "Legenda-Uma-Palavra-v2-thumb.png",
-      "preview": "Legenda-Uma-Palavra-v2-preview.mp4"
     },
     {
       "id": "title-counter",
@@ -704,6 +627,83 @@
       "durationSeconds": 15,
       "thumbnail": "Those-Dudes-v4-thumb.png",
       "preview": "Those-Dudes-v4-preview.mp4"
+    },
+    {
+      "id": "caption-beast",
+      "name": "Beast",
+      "category": "Captions",
+      "filename": "Legenda-Beast-v7.mogrt",
+      "version": 7,
+      "namePt": "Beast",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Beast-v7-thumb.png",
+      "preview": "Legenda-Beast-v7-preview.mp4"
+    },
+    {
+      "id": "caption-bolha",
+      "name": "Bubble",
+      "category": "Captions",
+      "filename": "Legenda-Bolha-v3.mogrt",
+      "version": 3,
+      "namePt": "Bolha",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Bolha-v3-thumb.png",
+      "preview": "Legenda-Bolha-v3-preview.mp4"
+    },
+    {
+      "id": "caption-fogo",
+      "name": "Fire",
+      "category": "Captions",
+      "filename": "Legenda-Fogo-v3.mogrt",
+      "version": 3,
+      "namePt": "Fogo",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Fogo-v3-thumb.png",
+      "preview": "Legenda-Fogo-v3-preview.mp4"
+    },
+    {
+      "id": "caption-hormozi",
+      "name": "Hormozi",
+      "category": "Captions",
+      "filename": "Legenda-Hormozi-v7.mogrt",
+      "version": 7,
+      "namePt": "Hormozi",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Hormozi-v7-thumb.png",
+      "preview": "Legenda-Hormozi-v7-preview.mp4"
+    },
+    {
+      "id": "caption-impacto",
+      "name": "Impact",
+      "category": "Captions",
+      "filename": "Legenda-Impacto-v3.mogrt",
+      "version": 3,
+      "namePt": "Impacto",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Impacto-v3-thumb.png",
+      "preview": "Legenda-Impacto-v3-preview.mp4"
+    },
+    {
+      "id": "caption-karaoke",
+      "name": "Karaoke",
+      "category": "Captions",
+      "filename": "Legenda-Karaoke-v7.mogrt",
+      "version": 7,
+      "namePt": "Karaokê",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Karaoke-v7-thumb.png",
+      "preview": "Legenda-Karaoke-v7-preview.mp4"
+    },
+    {
+      "id": "caption-uma-palavra",
+      "name": "One Word",
+      "category": "Captions",
+      "filename": "Legenda-Uma-Palavra-v3.mogrt",
+      "version": 3,
+      "namePt": "Uma Palavra",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Uma-Palavra-v3-thumb.png",
+      "preview": "Legenda-Uma-Palavra-v3-preview.mp4"
     }
   ]
 }
