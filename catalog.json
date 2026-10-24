@@ -763,6 +763,127 @@
       "durationSeconds": 5,
       "thumbnail": "Titulo-Riscado-thumb.png",
       "preview": "Titulo-Riscado-preview.mp4"
+    },
+    {
+      "id": "anim-arrows",
+      "name": "Pulsing Arrows",
+      "category": "Animated Icons",
+      "filename": "Icone-Setas-Pulsando.mogrt",
+      "version": 1,
+      "namePt": "Setas Pulsando",
+      "durationSeconds": 3,
+      "thumbnail": "Icone-Setas-Pulsando-thumb.png",
+      "preview": "Icone-Setas-Pulsando-preview.mp4"
+    },
+    {
+      "id": "anim-check",
+      "name": "Check",
+      "category": "Animated Icons",
+      "filename": "Icone-Check.mogrt",
+      "version": 1,
+      "namePt": "Check",
+      "durationSeconds": 3,
+      "thumbnail": "Icone-Check-thumb.png",
+      "preview": "Icone-Check-preview.mp4"
+    },
+    {
+      "id": "anim-coin",
+      "name": "3D Coin",
+      "category": "Animated Icons",
+      "filename": "Icone-Moeda-3D.mogrt",
+      "version": 1,
+      "namePt": "Moeda 3D",
+      "durationSeconds": 3.5,
+      "thumbnail": "Icone-Moeda-3D-thumb.png",
+      "preview": "Icone-Moeda-3D-preview.mp4"
+    },
+    {
+      "id": "anim-drawn-arrow",
+      "name": "Drawn Arrow",
+      "category": "Animated Icons",
+      "filename": "Icone-Seta-Desenhada.mogrt",
+      "version": 1,
+      "namePt": "Seta Desenhada",
+      "durationSeconds": 3,
+      "thumbnail": "Icone-Seta-Desenhada-thumb.png",
+      "preview": "Icone-Seta-Desenhada-preview.mp4"
+    },
+    {
+      "id": "anim-heart",
+      "name": "Heart",
+      "category": "Animated Icons",
+      "filename": "Icone-Coracao.mogrt",
+      "version": 1,
+      "namePt": "Coração",
+      "durationSeconds": 3,
+      "thumbnail": "Icone-Coracao-thumb.png",
+      "preview": "Icone-Coracao-preview.mp4"
+    },
+    {
+      "id": "anim-sparkles",
+      "name": "Sparkles",
+      "category": "Animated Icons",
+      "filename": "Icone-Brilhos.mogrt",
+      "version": 1,
+      "namePt": "Brilhos",
+      "durationSeconds": 3,
+      "thumbnail": "Icone-Brilhos-thumb.png",
+      "preview": "Icone-Brilhos-preview.mp4"
+    },
+    {
+      "id": "shape-circle",
+      "name": "Hand-drawn Circle",
+      "category": "Shapes",
+      "filename": "Shape-Circulo-a-Mao.mogrt",
+      "version": 1,
+      "namePt": "Círculo à Mão",
+      "durationSeconds": 4,
+      "thumbnail": "Shape-Circulo-a-Mao-thumb.png",
+      "preview": "Shape-Circulo-a-Mao-preview.mp4"
+    },
+    {
+      "id": "shape-line",
+      "name": "Line",
+      "category": "Shapes",
+      "filename": "Shape-Linha.mogrt",
+      "version": 1,
+      "namePt": "Linha",
+      "durationSeconds": 4,
+      "thumbnail": "Shape-Linha-thumb.png",
+      "preview": "Shape-Linha-preview.mp4"
+    },
+    {
+      "id": "shape-marker",
+      "name": "Marker",
+      "category": "Shapes",
+      "filename": "Shape-Marca-texto.mogrt",
+      "version": 1,
+      "namePt": "Marca-texto",
+      "durationSeconds": 4,
+      "thumbnail": "Shape-Marca-texto-thumb.png",
+      "preview": "Shape-Marca-texto-preview.mp4"
+    },
+    {
+      "id": "shape-rect",
+      "name": "Rectangle",
+      "category": "Shapes",
+      "filename": "Shape-Retangulo.mogrt",
+      "version": 1,
+      "namePt": "Retângulo",
+      "durationSeconds": 4,
+      "thumbnail": "Shape-Retangulo-thumb.png",
+      "preview": "Shape-Retangulo-preview.mp4"
+    },
+    {
+      "id": "shape-wavy",
+      "name": "Wavy Line",
+      "category": "Shapes",
+      "filename": "Shape-Linha-Ondulada.mogrt",
+      "version": 1,
+      "namePt": "Linha Ondulada",
+      "durationSeconds": 4,
+      "thumbnail": "Shape-Linha-Ondulada-thumb.png",
+      "preview": "Shape-Linha-Ondulada-preview.mp4"
     }
   ]
 }
