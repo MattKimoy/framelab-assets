@@ -421,7 +421,7 @@
     },
     {
       "id": "caption-bolha",
-      "name": "Bolha",
+      "name": "Bubble",
       "category": "Captions",
       "filename": "Legenda-Bolha-v4.mogrt",
       "version": 4,
@@ -432,7 +432,7 @@
     },
     {
       "id": "caption-brilho",
-      "name": "Brilho",
+      "name": "Glow",
       "category": "Captions",
       "filename": "Legenda-Brilho-v3.mogrt",
       "version": 3,
@@ -443,7 +443,7 @@
     },
     {
       "id": "caption-caixa",
-      "name": "Caixa",
+      "name": "Box",
       "category": "Captions",
       "filename": "Legenda-Caixa-v8.mogrt",
       "version": 8,
@@ -465,7 +465,7 @@
     },
     {
       "id": "caption-desfoque",
-      "name": "Desfoque",
+      "name": "Blur Reveal",
       "category": "Captions",
       "filename": "Legenda-Desfoque-v3.mogrt",
       "version": 3,
@@ -487,7 +487,7 @@
     },
     {
       "id": "caption-fogo",
-      "name": "Fogo",
+      "name": "Fire",
       "category": "Captions",
       "filename": "Legenda-Fogo-v5.mogrt",
       "version": 5,
@@ -509,7 +509,7 @@
     },
     {
       "id": "caption-impacto",
-      "name": "Impacto",
+      "name": "Impact",
       "category": "Captions",
       "filename": "Legenda-Impacto-v4.mogrt",
       "version": 4,
@@ -520,7 +520,7 @@
     },
     {
       "id": "caption-karaoke",
-      "name": "Karaokê",
+      "name": "Karaoke",
       "category": "Captions",
       "filename": "Legenda-Karaoke-v8.mogrt",
       "version": 8,
@@ -542,7 +542,7 @@
     },
     {
       "id": "caption-pilula",
-      "name": "Pílula",
+      "name": "Pill",
       "category": "Captions",
       "filename": "Legenda-Pilula-v3.mogrt",
       "version": 3,
@@ -564,7 +564,7 @@
     },
     {
       "id": "caption-typewriter",
-      "name": "Máquina de Escrever",
+      "name": "Typewriter",
       "category": "Captions",
       "filename": "Legenda-Maquina-de-Escrever-v7.mogrt",
       "version": 7,
@@ -575,7 +575,7 @@
     },
     {
       "id": "caption-uma-palavra",
-      "name": "Uma Palavra",
+      "name": "One Word",
       "category": "Captions",
       "filename": "Legenda-Uma-Palavra-v4.mogrt",
       "version": 4,
@@ -586,102 +586,111 @@
     },
     {
       "id": "title-chapter",
-      "name": "Capitulo",
+      "name": "Chapter",
       "category": "Titles",
       "filename": "Titulo-Capitulo-v5.mogrt",
       "version": 5,
-      "namePt": "Capitulo",
+      "namePt": "Capítulo",
       "durationSeconds": 5,
       "thumbnail": "Titulo-Capitulo-v5-thumb.png",
-      "preview": "Titulo-Capitulo-v5-preview.mp4"
+      "preview": "Titulo-Capitulo-v5-preview.mp4",
+      "subcategory": "telas"
     },
     {
       "id": "title-counter",
-      "name": "Contador",
+      "name": "Counter",
       "category": "Titles",
       "filename": "Titulo-Contador-v7.mogrt",
       "version": 7,
       "namePt": "Contador",
       "durationSeconds": 5,
       "thumbnail": "Titulo-Contador-v7-thumb.png",
-      "preview": "Titulo-Contador-v7-preview.mp4"
+      "preview": "Titulo-Contador-v7-preview.mp4",
+      "subcategory": "valores"
     },
     {
       "id": "title-cta-button",
-      "name": "CTA Botao",
+      "name": "CTA Buy Button",
       "category": "Titles",
       "filename": "Titulo-CTA-Botao-v3.mogrt",
       "version": 3,
-      "namePt": "CTA Botao",
+      "namePt": "CTA Botão Comprar",
       "durationSeconds": 5,
       "thumbnail": "Titulo-CTA-Botao-v3-thumb.png",
-      "preview": "Titulo-CTA-Botao-v3-preview.mp4"
+      "preview": "Titulo-CTA-Botao-v3-preview.mp4",
+      "subcategory": "botoes"
     },
     {
       "id": "title-cta-guarantee",
-      "name": "CTA Garantia",
+      "name": "CTA Guarantee",
       "category": "Titles",
       "filename": "Titulo-CTA-Garantia-v5.mogrt",
       "version": 5,
-      "namePt": "CTA Garantia",
+      "namePt": "CTA Selo de Garantia",
       "durationSeconds": 5,
       "thumbnail": "Titulo-CTA-Garantia-v5-thumb.png",
-      "preview": "Titulo-CTA-Garantia-v5-preview.mp4"
+      "preview": "Titulo-CTA-Garantia-v5-preview.mp4",
+      "subcategory": "cta"
     },
     {
       "id": "title-cta-price",
-      "name": "CTA Preco",
+      "name": "CTA Price",
       "category": "Titles",
       "filename": "Titulo-CTA-Preco-v5.mogrt",
       "version": 5,
-      "namePt": "CTA Preco",
+      "namePt": "CTA Preço",
       "durationSeconds": 5,
       "thumbnail": "Titulo-CTA-Preco-v5-thumb.png",
-      "preview": "Titulo-CTA-Preco-v5-preview.mp4"
+      "preview": "Titulo-CTA-Preco-v5-preview.mp4",
+      "subcategory": "valores"
     },
     {
       "id": "title-cta-stock",
-      "name": "CTA Estoque",
+      "name": "CTA Low Stock",
       "category": "Titles",
       "filename": "Titulo-CTA-Estoque-v5.mogrt",
       "version": 5,
-      "namePt": "CTA Estoque",
+      "namePt": "CTA Estoque Acabando",
       "durationSeconds": 5,
       "thumbnail": "Titulo-CTA-Estoque-v5-thumb.png",
-      "preview": "Titulo-CTA-Estoque-v5-preview.mp4"
+      "preview": "Titulo-CTA-Estoque-v5-preview.mp4",
+      "subcategory": "cta"
     },
     {
       "id": "title-cta-timer",
-      "name": "CTA Contagem",
+      "name": "CTA Countdown",
       "category": "Titles",
       "filename": "Titulo-CTA-Contagem-v3.mogrt",
       "version": 3,
-      "namePt": "CTA Contagem",
+      "namePt": "CTA Contagem Regressiva",
       "durationSeconds": 5,
       "thumbnail": "Titulo-CTA-Contagem-v3-thumb.png",
-      "preview": "Titulo-CTA-Contagem-v3-preview.mp4"
+      "preview": "Titulo-CTA-Contagem-v3-preview.mp4",
+      "subcategory": "cta"
     },
     {
       "id": "title-highlighter",
-      "name": "Marca-texto",
+      "name": "Highlighter",
       "category": "Titles",
       "filename": "Titulo-Marca-texto-v6.mogrt",
       "version": 6,
       "namePt": "Marca-texto",
       "durationSeconds": 5,
       "thumbnail": "Titulo-Marca-texto-v6-thumb.png",
-      "preview": "Titulo-Marca-texto-v6-preview.mp4"
+      "preview": "Titulo-Marca-texto-v6-preview.mp4",
+      "subcategory": "textos"
     },
     {
       "id": "title-impact",
-      "name": "Impacto",
+      "name": "Impact",
       "category": "Titles",
       "filename": "Titulo-Impacto-v5.mogrt",
       "version": 5,
       "namePt": "Impacto",
       "durationSeconds": 3,
       "thumbnail": "Titulo-Impacto-v5-thumb.png",
-      "preview": "Titulo-Impacto-v5-preview.mp4"
+      "preview": "Titulo-Impacto-v5-preview.mp4",
+      "subcategory": "impacto"
     },
     {
       "id": "title-lower-third",
@@ -692,62 +701,68 @@
       "namePt": "Lower Third",
       "durationSeconds": 5,
       "thumbnail": "Titulo-Lower-Third-v6-thumb.png",
-      "preview": "Titulo-Lower-Third-v6-preview.mp4"
+      "preview": "Titulo-Lower-Third-v6-preview.mp4",
+      "subcategory": "textos"
     },
     {
       "id": "title-phrase-number",
-      "name": "Numero de Impacto",
+      "name": "Impact Number",
       "category": "Titles",
       "filename": "Titulo-Numero-de-Impacto-v2.mogrt",
       "version": 2,
       "namePt": "Número de Impacto",
       "durationSeconds": 5,
       "thumbnail": "Titulo-Numero-de-Impacto-v2-thumb.png",
-      "preview": "Titulo-Numero-de-Impacto-v2-preview.mp4"
+      "preview": "Titulo-Numero-de-Impacto-v2-preview.mp4",
+      "subcategory": "impacto"
     },
     {
       "id": "title-phrase-quote",
-      "name": "Citacao",
+      "name": "Quote",
       "category": "Titles",
       "filename": "Titulo-Citacao-v2.mogrt",
       "version": 2,
       "namePt": "Citação",
       "durationSeconds": 6,
       "thumbnail": "Titulo-Citacao-v2-thumb.png",
-      "preview": "Titulo-Citacao-v2-preview.mp4"
+      "preview": "Titulo-Citacao-v2-preview.mp4",
+      "subcategory": "textos"
     },
     {
       "id": "title-phrase-stack",
-      "name": "Frase Empilhada",
+      "name": "Stacked Phrase",
       "category": "Titles",
       "filename": "Titulo-Frase-Empilhada-v2.mogrt",
       "version": 2,
       "namePt": "Frase Empilhada",
       "durationSeconds": 5,
       "thumbnail": "Titulo-Frase-Empilhada-v2-thumb.png",
-      "preview": "Titulo-Frase-Empilhada-v2-preview.mp4"
+      "preview": "Titulo-Frase-Empilhada-v2-preview.mp4",
+      "subcategory": "impacto"
     },
     {
       "id": "title-phrase-strike",
-      "name": "Riscado",
+      "name": "Strike Through",
       "category": "Titles",
       "filename": "Titulo-Riscado-v2.mogrt",
       "version": 2,
       "namePt": "Riscado",
       "durationSeconds": 5,
       "thumbnail": "Titulo-Riscado-v2-thumb.png",
-      "preview": "Titulo-Riscado-v2-preview.mp4"
+      "preview": "Titulo-Riscado-v2-preview.mp4",
+      "subcategory": "impacto"
     },
     {
       "id": "title-subscribe",
-      "name": "Inscreva-se",
+      "name": "Subscribe",
       "category": "Titles",
       "filename": "Titulo-Inscreva-se-v6.mogrt",
       "version": 6,
       "namePt": "Inscreva-se",
       "durationSeconds": 5,
       "thumbnail": "Titulo-Inscreva-se-v6-thumb.png",
-      "preview": "Titulo-Inscreva-se-v6-preview.mp4"
+      "preview": "Titulo-Inscreva-se-v6-preview.mp4",
+      "subcategory": "botoes"
     },
     {
       "id": "anim-arrow-loop",
@@ -839,7 +854,7 @@
     },
     {
       "id": "shape-circle",
-      "name": "Hand Circle",
+      "name": "Hand-drawn Circle",
       "category": "Shapes",
       "filename": "Shape-Circulo-a-Mao-v2.mogrt",
       "version": 2,
@@ -861,7 +876,7 @@
     },
     {
       "id": "shape-marker",
-      "name": "Highlighter",
+      "name": "Marker",
       "category": "Shapes",
       "filename": "Shape-Marca-texto-v2.mogrt",
       "version": 2,
