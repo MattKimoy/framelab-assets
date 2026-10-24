@@ -715,6 +715,54 @@
       "durationSeconds": 4,
       "thumbnail": "Legenda-Editorial-thumb.png",
       "preview": "Legenda-Editorial-preview.mp4"
+    },
+    {
+      "id": "title-phrase-number",
+      "name": "Impact Number",
+      "category": "Titles",
+      "filename": "Titulo-Numero-de-Impacto.mogrt",
+      "version": 1,
+      "namePt": "Número de Impacto",
+      "subcategory": "impacto",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-Numero-de-Impacto-thumb.png",
+      "preview": "Titulo-Numero-de-Impacto-preview.mp4"
+    },
+    {
+      "id": "title-phrase-quote",
+      "name": "Quote",
+      "category": "Titles",
+      "filename": "Titulo-Citacao.mogrt",
+      "version": 1,
+      "namePt": "Citação",
+      "subcategory": "textos",
+      "durationSeconds": 6,
+      "thumbnail": "Titulo-Citacao-thumb.png",
+      "preview": "Titulo-Citacao-preview.mp4"
+    },
+    {
+      "id": "title-phrase-stack",
+      "name": "Stacked Phrase",
+      "category": "Titles",
+      "filename": "Titulo-Frase-Empilhada.mogrt",
+      "version": 1,
+      "namePt": "Frase Empilhada",
+      "subcategory": "impacto",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-Frase-Empilhada-thumb.png",
+      "preview": "Titulo-Frase-Empilhada-preview.mp4"
+    },
+    {
+      "id": "title-phrase-strike",
+      "name": "Strike Through",
+      "category": "Titles",
+      "filename": "Titulo-Riscado.mogrt",
+      "version": 1,
+      "namePt": "Riscado",
+      "subcategory": "impacto",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-Riscado-thumb.png",
+      "preview": "Titulo-Riscado-preview.mp4"
     }
   ]
 }
