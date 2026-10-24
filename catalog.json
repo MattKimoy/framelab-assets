@@ -651,17 +651,6 @@
       "preview": "Legenda-Bolha-v3-preview.mp4"
     },
     {
-      "id": "caption-fogo",
-      "name": "Fire",
-      "category": "Captions",
-      "filename": "Legenda-Fogo-v3.mogrt",
-      "version": 3,
-      "namePt": "Fogo",
-      "durationSeconds": 4,
-      "thumbnail": "Legenda-Fogo-v3-thumb.png",
-      "preview": "Legenda-Fogo-v3-preview.mp4"
-    },
-    {
       "id": "caption-hormozi",
       "name": "Hormozi",
       "category": "Captions",
@@ -704,6 +693,17 @@
       "durationSeconds": 4,
       "thumbnail": "Legenda-Uma-Palavra-v3-thumb.png",
       "preview": "Legenda-Uma-Palavra-v3-preview.mp4"
+    },
+    {
+      "id": "caption-fogo",
+      "name": "Fire",
+      "category": "Captions",
+      "filename": "Legenda-Fogo-v4.mogrt",
+      "version": 4,
+      "namePt": "Fogo",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Fogo-v4-thumb.png",
+      "preview": "Legenda-Fogo-v4-preview.mp4"
     }
   ]
 }
