@@ -916,18 +916,6 @@
       "preview": "Shape-Linha-Ondulada-v2-preview.mp4"
     },
     {
-      "id": "title-phrase-number",
-      "name": "Impact Number",
-      "category": "Titles",
-      "filename": "Titulo-Numero-de-Impacto-v3.mogrt",
-      "version": 3,
-      "namePt": "Número de Impacto",
-      "subcategory": "impacto",
-      "durationSeconds": 5,
-      "thumbnail": "Titulo-Numero-de-Impacto-v3-thumb.png",
-      "preview": "Titulo-Numero-de-Impacto-v3-preview.mp4"
-    },
-    {
       "id": "title-phrase-quote",
       "name": "Quote",
       "category": "Titles",
@@ -950,6 +938,18 @@
       "durationSeconds": 5,
       "thumbnail": "Titulo-Frase-Empilhada-v3-thumb.png",
       "preview": "Titulo-Frase-Empilhada-v3-preview.mp4"
+    },
+    {
+      "id": "title-phrase-number",
+      "name": "Impact Number",
+      "category": "Titles",
+      "filename": "Titulo-Numero-de-Impacto-v4.mogrt",
+      "version": 4,
+      "namePt": "Número de Impacto",
+      "subcategory": "impacto",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-Numero-de-Impacto-v4-thumb.png",
+      "preview": "Titulo-Numero-de-Impacto-v4-preview.mp4"
     }
   ]
 }
