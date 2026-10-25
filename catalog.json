@@ -705,42 +705,6 @@
       "subcategory": "textos"
     },
     {
-      "id": "title-phrase-number",
-      "name": "Impact Number",
-      "category": "Titles",
-      "filename": "Titulo-Numero-de-Impacto-v2.mogrt",
-      "version": 2,
-      "namePt": "Número de Impacto",
-      "durationSeconds": 5,
-      "thumbnail": "Titulo-Numero-de-Impacto-v2-thumb.png",
-      "preview": "Titulo-Numero-de-Impacto-v2-preview.mp4",
-      "subcategory": "impacto"
-    },
-    {
-      "id": "title-phrase-quote",
-      "name": "Quote",
-      "category": "Titles",
-      "filename": "Titulo-Citacao-v2.mogrt",
-      "version": 2,
-      "namePt": "Citação",
-      "durationSeconds": 6,
-      "thumbnail": "Titulo-Citacao-v2-thumb.png",
-      "preview": "Titulo-Citacao-v2-preview.mp4",
-      "subcategory": "textos"
-    },
-    {
-      "id": "title-phrase-stack",
-      "name": "Stacked Phrase",
-      "category": "Titles",
-      "filename": "Titulo-Frase-Empilhada-v2.mogrt",
-      "version": 2,
-      "namePt": "Frase Empilhada",
-      "durationSeconds": 5,
-      "thumbnail": "Titulo-Frase-Empilhada-v2-thumb.png",
-      "preview": "Titulo-Frase-Empilhada-v2-preview.mp4",
-      "subcategory": "impacto"
-    },
-    {
       "id": "title-phrase-strike",
       "name": "Strike Through",
       "category": "Titles",
@@ -950,6 +914,42 @@
       "durationSeconds": 4,
       "thumbnail": "Shape-Linha-Ondulada-v2-thumb.png",
       "preview": "Shape-Linha-Ondulada-v2-preview.mp4"
+    },
+    {
+      "id": "title-phrase-number",
+      "name": "Impact Number",
+      "category": "Titles",
+      "filename": "Titulo-Numero-de-Impacto-v3.mogrt",
+      "version": 3,
+      "namePt": "Número de Impacto",
+      "subcategory": "impacto",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-Numero-de-Impacto-v3-thumb.png",
+      "preview": "Titulo-Numero-de-Impacto-v3-preview.mp4"
+    },
+    {
+      "id": "title-phrase-quote",
+      "name": "Quote",
+      "category": "Titles",
+      "filename": "Titulo-Citacao-v3.mogrt",
+      "version": 3,
+      "namePt": "Citação",
+      "subcategory": "textos",
+      "durationSeconds": 6,
+      "thumbnail": "Titulo-Citacao-v3-thumb.png",
+      "preview": "Titulo-Citacao-v3-preview.mp4"
+    },
+    {
+      "id": "title-phrase-stack",
+      "name": "Stacked Phrase",
+      "category": "Titles",
+      "filename": "Titulo-Frase-Empilhada-v3.mogrt",
+      "version": 3,
+      "namePt": "Frase Empilhada",
+      "subcategory": "impacto",
+      "durationSeconds": 5,
+      "thumbnail": "Titulo-Frase-Empilhada-v3-thumb.png",
+      "preview": "Titulo-Frase-Empilhada-v3-preview.mp4"
     }
   ]
 }
