@@ -943,13 +943,13 @@
       "id": "title-phrase-number",
       "name": "Impact Number",
       "category": "Titles",
-      "filename": "Titulo-Numero-de-Impacto-v4.mogrt",
-      "version": 4,
+      "filename": "Titulo-Numero-de-Impacto-v5.mogrt",
+      "version": 5,
       "namePt": "Número de Impacto",
       "subcategory": "impacto",
       "durationSeconds": 5,
-      "thumbnail": "Titulo-Numero-de-Impacto-v4-thumb.png",
-      "preview": "Titulo-Numero-de-Impacto-v4-preview.mp4"
+      "thumbnail": "Titulo-Numero-de-Impacto-v5-thumb.png",
+      "preview": "Titulo-Numero-de-Impacto-v5-preview.mp4"
     }
   ]
 }
