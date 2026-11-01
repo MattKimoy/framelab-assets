@@ -950,6 +950,36 @@
       "durationSeconds": 5,
       "thumbnail": "Titulo-Numero-de-Impacto-v5-thumb.png",
       "preview": "Titulo-Numero-de-Impacto-v5-preview.mp4"
+    },
+    {
+      "id": "hud-safezone-feed-1x1",
+      "name": "Feed 1:1",
+      "category": "HUD Library",
+      "filename": "Hud-Safezone-Feed-1x1.png",
+      "version": 1,
+      "namePt": "Feed 1:1",
+      "subcategory": "safezones",
+      "thumbnail": "Hud-Safezone-Feed-1x1-thumb.png"
+    },
+    {
+      "id": "hud-safezone-feed-4x5",
+      "name": "Feed 4:5",
+      "category": "HUD Library",
+      "filename": "Hud-Safezone-Feed-4x5.png",
+      "version": 1,
+      "namePt": "Feed 4:5",
+      "subcategory": "safezones",
+      "thumbnail": "Hud-Safezone-Feed-4x5-thumb.png"
+    },
+    {
+      "id": "hud-safezone-feed-5x4",
+      "name": "Feed 5:4",
+      "category": "HUD Library",
+      "filename": "Hud-Safezone-Feed-5x4.png",
+      "version": 1,
+      "namePt": "Feed 5:4",
+      "subcategory": "safezones",
+      "thumbnail": "Hud-Safezone-Feed-5x4-thumb.png"
     }
   ]
 }
