@@ -980,6 +980,105 @@
       "namePt": "Feed 5:4",
       "subcategory": "safezones",
       "thumbnail": "Hud-Safezone-Feed-5x4-thumb.png"
+    },
+    {
+      "id": "caption-arco",
+      "name": "Arc",
+      "category": "Captions",
+      "filename": "Legenda-Arco.mogrt",
+      "version": 1,
+      "namePt": "Arco",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Arco-thumb.png",
+      "preview": "Legenda-Arco-preview.mp4"
+    },
+    {
+      "id": "caption-datilo",
+      "name": "Typed",
+      "category": "Captions",
+      "filename": "Legenda-Datilografada.mogrt",
+      "version": 1,
+      "namePt": "Datilografada",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Datilografada-thumb.png",
+      "preview": "Legenda-Datilografada-preview.mp4"
+    },
+    {
+      "id": "caption-destaque",
+      "name": "Highlight",
+      "category": "Captions",
+      "filename": "Legenda-Destaque.mogrt",
+      "version": 1,
+      "namePt": "Destaque",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Destaque-thumb.png",
+      "preview": "Legenda-Destaque-preview.mp4"
+    },
+    {
+      "id": "caption-direta",
+      "name": "Direct",
+      "category": "Captions",
+      "filename": "Legenda-Direta.mogrt",
+      "version": 1,
+      "namePt": "Direta",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Direta-thumb.png",
+      "preview": "Legenda-Direta-preview.mp4"
+    },
+    {
+      "id": "caption-gigante",
+      "name": "Giant",
+      "category": "Captions",
+      "filename": "Legenda-Gigante.mogrt",
+      "version": 1,
+      "namePt": "Gigante",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Gigante-thumb.png",
+      "preview": "Legenda-Gigante-preview.mp4"
+    },
+    {
+      "id": "caption-neon-dr",
+      "name": "Neon Caps",
+      "category": "Captions",
+      "filename": "Legenda-Neon-Caps.mogrt",
+      "version": 1,
+      "namePt": "Neon Caps",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Neon-Caps-thumb.png",
+      "preview": "Legenda-Neon-Caps-preview.mp4"
+    },
+    {
+      "id": "caption-selecao",
+      "name": "Selection",
+      "category": "Captions",
+      "filename": "Legenda-Selecao.mogrt",
+      "version": 1,
+      "namePt": "Seleção",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Selecao-thumb.png",
+      "preview": "Legenda-Selecao-preview.mp4"
+    },
+    {
+      "id": "caption-sobe",
+      "name": "Rise",
+      "category": "Captions",
+      "filename": "Legenda-Sobe.mogrt",
+      "version": 1,
+      "namePt": "Sobe",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Sobe-thumb.png",
+      "preview": "Legenda-Sobe-preview.mp4"
+    },
+    {
+      "id": "caption-tarja",
+      "name": "Tag Box",
+      "category": "Captions",
+      "filename": "Legenda-Tarja.mogrt",
+      "version": 1,
+      "namePt": "Tarja",
+      "durationSeconds": 4,
+      "thumbnail": "Legenda-Tarja-thumb.png",
+      "preview": "Legenda-Tarja-preview.mp4"
     }
   ]
 }
